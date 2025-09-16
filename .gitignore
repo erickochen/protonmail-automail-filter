@@ -1,0 +1,49 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Personal/Test Files
+test-emails/
+personal-modifications.sieve
+*.local
+*.private
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Node.js (if adding any tooling later)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if adding any tooling later)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
